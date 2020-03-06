@@ -4,3 +4,16 @@
 
 layout: home
 ---
+<h1>Welcome</h1>
+<img style="float: right;" src="{{ site.url }}/assets/me2.jpg" width="50%">
+<p>Hello! This is the website for Nicholas Geyer.  I am a Research Associate
+and Ph.D. Candidate in the Department of Atmospheric Sciences at Colorado State University.
+I work for the Denning Biocycle Research Group.</p>
+
+<p>
+Within the pages of this website you will find examples of code, writing,
+and derivations I have put together over the years.  Please enjoy the visit!</p>
+
+<p> Note:
+I realize there is no contact form (just yet), but please use the email below to
+reach me.</p>

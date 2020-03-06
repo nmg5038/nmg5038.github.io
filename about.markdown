@@ -3,16 +3,35 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img style="float: right;" src="{{ site.url }}/assets/me1.jpg" width="50%">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<table style="width:50%">
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+  <tr>
+    <td>Age</td>
+    <td>32</td>
+  </tr>
+  <tr>
+    <td>Hometown</td>
+    <td>Bethel Park, PA</td>
+  </tr>
+  <tr>
+    <td>Current Town</td>
+    <td>Loveland, CO</td>
+  </tr>
+  <tr>
+    <td>Undergraduate Degree</td>
+    <td>B.Sc. in Meteorology from The Pennsylvania State University</td>
+  </tr>
+  <tr>
+    <td>Graduate Degree</td>
+    <td>M.Sc. in Atmospheric Science from Colorado State University</td>
+  </tr>
+  <tr>
+    <td>Favorite Food</td>
+    <td>Fish Tacos</td>
+  </tr>
+</table>
