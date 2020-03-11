@@ -14,6 +14,5 @@ I work for the Denning Biocycle Research Group.</p>
 Within the pages of this website you will find examples of code, writing,
 and derivations I have put together over the years.  Please enjoy the visit!</p>
 
-<p> Note:
-I realize there is no contact form (just yet), but please use the email below to
-reach me.</p>
+<p> Note: If you would like to get in contact with me, then my preferred method is through the
+contact form.</p>
