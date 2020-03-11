@@ -66,6 +66,11 @@ They do get updated as I do revisit the concepts from time to time:
       <a href="{{ site.url }}/quickstudies/heatCapacityRelationship.pdf">Heat Capacity Relationships</a>
       </td>
     </tr>
+    <tr>
+      <td>
+      <a href="{{ site.url }}/quickstudies/LatentHeatFromFicks.pdf">Latent Heat From Ficks First Law of Diffusion</a>
+      </td>
+    </tr>
       <tr>
         <td>
         <a href="{{ site.url }}/quickstudies/verticalIntegration.pdf">Vertical Integration in a General Coordinate System</a>
