@@ -76,6 +76,12 @@ They do get updated as I do revisit the concepts from time to time:
         <a href="{{ site.url }}/quickstudies/verticalIntegration.pdf">Vertical Integration in a General Coordinate System</a>
         </td>
       </tr>
+      <tr>
+        <td>
+        <a href="{{ site.url }}/quickstudies/StreamFunctionZonalMeans.pdf">Total Poleward Mass Flux</a>
+        </td>
+      </tr>
+
   </tr>
 
 
