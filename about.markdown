@@ -12,7 +12,7 @@ permalink: /about/
 </colgroup>
   <tr>
     <td>Age</td>
-    <td>32</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Hometown</td>
