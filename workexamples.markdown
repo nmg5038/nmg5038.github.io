@@ -8,7 +8,11 @@ Welcome to my work examples.  In this page, you will find several videos of rece
 research and example works that I commonly perform.  Please enjoy!
 
 <h1>Example of Frontal and CO2 gradient Detection</h1>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bojTLqOKiqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Hello! This is the website for Nicholas Geyer.  I am a Research Associate
+and Ph.D. Candidate in the Department of Atmospheric Sciences at Colorado State University.
+I work for the Denning Biocycle Research Group.</p>
 
 <h1>Example of Superparameterized Transport of CO2 within CESM</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RX_Zbc9lC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
