@@ -8,6 +8,7 @@ Welcome to my work examples.  In this page, you will find several videos of rece
 research and example works that I commonly perform.  Please enjoy!
 
 <h1>Detection and Distributions of Fronts and CO2 Gradients in Models</h1>
+
 <h2>SP-CESM</h2>
 
 Below is an example of Frontal Detection and CO2 gradient estimation along fronts using methods
@@ -28,6 +29,11 @@ adapted from Hewson 1997.  This encompasses 1 month of hourly data generated fro
 Below is a simple means to view the vertical distribution of the CO2 gradients along fronts within the SP-CESM.  The easiest thing to take away from this is that CO2 gradients in IW-CESM extend throughout the troposphere along fronts as with the other simulations.  They get weaker with height and more of the density is focused toward similar values, which is expected.  Comparisons with other models will occur soon.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CJCngoi5d1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2>SP-CESM and IW-CESM difference</h2>
+Same notation as the previous violin plots (This is SP - IW, or <0 indicates SP > IW).  Note while the difference SP and IW do have plenty in common (large bulges near zero in the probability distribution), SP has substantially more distribution of higher CO2 gradients as noted by the often larger negative tails in the distributions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yWuxygCog4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Standard CESM</h2>
 Below is an example of Frontal Detection and CO2 gradient estimation along fronts using methods
