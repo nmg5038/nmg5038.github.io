@@ -91,6 +91,21 @@ They do get updated as I do revisit the concepts from time to time:
         <a href="{{ site.url }}/quickstudies/sphericalCoordinates.pdf">Spherical Coordinates from Cartesian</a>
         </td>
       </tr>
+      <tr>
+        <td>
+        <a href="{{ site.url }}/quickstudies/ekmanSpiral.pdf">Ekman Spiral</a>
+        </td>
+      </tr>
+
+  </tr>
+
+  <tr>
+    <th> Climate Basics </th>
+      <tr>
+        <td>
+        <a href="{{ site.url }}/quickstudies/topOfAtmosphereRadiation.pdf">Climate Basics 1: Radiation from Sun to Earth</a>
+        </td>
+      </tr>
 
   </tr>
 
