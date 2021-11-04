@@ -58,6 +58,11 @@ They do get updated as I do revisit the concepts from time to time:
       </tr>
       <tr>
         <td>
+        <a href="{{ site.url }}/quickstudies/reynoldsDecompositionP_O.pdf">Reynold's Decomposition: Piexoto and Oort</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
         <a href="{{ site.url }}/quickstudies/Interhemispheric_Exchange.pdf">Interhemispheric Exchange Time</a>
         </td>
       </tr>
