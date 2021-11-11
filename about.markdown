@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <img style="float: right;" src="{{ site.url }}/assets/me1.jpg" width="50%">
-![50%](https://progress-bar.dev/50)
+
 <table style="width:50%">
 <colgroup>
 <col width="20%" />
@@ -29,6 +29,10 @@ permalink: /about/
   <tr>
     <td>Graduate Degree</td>
     <td>M.Sc. in Atmospheric Science from Colorado State University</td>
+  </tr>
+  <tr>
+    <td>Graduate Degree</td>
+    <td>Ph.D. in Atmospheric Science from Colorado State University</td>
   </tr>
   <tr>
     <td>Favorite Food</td>
