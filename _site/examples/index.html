@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Work Examples | Nicholas M. Geyer</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Work Examples" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Website for Nicholas M Geyer of Colorado State University" />
+<meta property="og:description" content="Website for Nicholas M Geyer of Colorado State University" />
+<link rel="canonical" href="http://localhost:4000/examples/" />
+<meta property="og:url" content="http://localhost:4000/examples/" />
+<meta property="og:site_name" content="Nicholas M. Geyer" />
+<script type="application/ld+json">
+{"headline":"Work Examples","description":"Website for Nicholas M Geyer of Colorado State University","url":"http://localhost:4000/examples/","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Nicholas M. Geyer" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Nicholas M. Geyer</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/Quick%20Studies/">Quick Studies</a><a class="page-link" href="/Contact%20Me/">Contact Me</a><a class="page-link" href="/examples/">Work Examples</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Work Examples</h1>
+  </header>
+
+  <div class="post-content">
+    <p>Welcome to my work examples.  In this page, you will find several videos of recent
+research and example works that I commonly perform.  Please enjoy!</p>
+
+<h1>Detection and Distributions of Fronts and CO2 Gradients in Models</h1>
+
+<h2>SP-CESM</h2>
+
+<p>Below is an example of Frontal Detection and CO2 gradient estimation along fronts using methods
+adapted from Hewson 1997.  This encompasses 1 month of hourly data generated from the SP-CESM.  This model uses super-parameterization, which is a fancy term that essentially means to remove all standard convective/sub-grid scale (SGS) parameterizations and replace them with a 2-D curtain of cloud resolving models.  I adapted the code to handle tracer transport through the CRMs.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KBFaTbXvTj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Below is a simple means to view the vertical distribution of the CO2 gradients along fronts within the SP-CESM.  These are “violin” plots.  These are nice because at each model level we can summarize the kernel density in color (i.e., probability) and see the underlying gradient distribution (i.e., the box-and-whiskers).   The easiest thing to take away from this is that CO2 gradients in SP-CESM extend throughout the troposphere along fronts.  Some, especially those near the surface, are as strong as those found in observational records.  Lastly, they get weaker with height and more of the density is focused toward similar values, which is expected.  Comparisons with other models will occur soon.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui5Z0DlbVGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2>Identical Weather SP-CESM</h2>
+<p>Below is an example of Frontal Detection and CO2 gradient estimation along fronts using methods
+adapted from Hewson 1997.  This encompasses 1 month of hourly data generated from the SP-CESM using the identical weather set-up.  This means all weather is generated through the CRMs as in SP-CESM, but the tracer transport is handled through the standard bulk convective/SGS parameterizations.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgnQqEou4rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Below is a simple means to view the vertical distribution of the CO2 gradients along fronts within the SP-CESM.  The easiest thing to take away from this is that CO2 gradients in IW-CESM extend throughout the troposphere along fronts as with the other simulations.  They get weaker with height and more of the density is focused toward similar values, which is expected.  Comparisons with other models will occur soon.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJCngoi5d1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2>SP-CESM and IW-CESM difference</h2>
+<p>Same notation as the previous violin plots (This is SP - IW, or &lt;0 indicates SP &gt; IW).  Note while the difference SP and IW do have plenty in common (large bulges near zero in the probability distribution), SP has substantially more distribution of higher CO2 gradients as noted by the often larger negative tails in the distributions.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yWuxygCog4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2>Standard CESM</h2>
+<p>Below is an example of Frontal Detection and CO2 gradient estimation along fronts using methods
+adapted from Hewson 1997.  This encompasses 1 month of hourly data generated from the CESM2.0.  This model used all standard packages and parameterizations.  Nothing fancy.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bojTLqOKiqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h1>Example of Superparameterized Transport of CO2 within CESM</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6RX_Zbc9lC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h1>Fortran</h1>
+<h1>IDL</h1>
+<h1>PYTHON</h1>
+<h1>NCL</h1>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Nicholas M. Geyer</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Nicholas M. Geyer</li><li><a class="u-email" href="mailto:geyer@atmos.colostate.edu">geyer@atmos.colostate.edu</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/nmg5038"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">nmg5038</span></a></li><li><a href="https://instagram.com/nmg5038"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#instagram"></use></svg> <span class="username">nmg5038</span></a></li><li><a href="https://www.twitter.com/nmg5038"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">nmg5038</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Website for Nicholas M Geyer of Colorado State University</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
