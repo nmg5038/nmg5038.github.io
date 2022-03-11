@@ -1,0 +1,16 @@
+---
+layout: page
+permalink: /FrontalDetect/CASE_2016-04-08_2016-04-15/
+---
+<h1>Case: 2016-04-08 to 2016-04-15</h1>
+
+<h2>Weather and Frontal Detection</h2>
+<h3> Thermal Front Parameter </h3>
+This is a measure using equivalent potential temperature
+<h3> Divergence of Thermal Front Parameter </h3>
+This is the actual metric used to identify a frontal boundary
+<h3> Vertical Velocity </h3>
+<h2>Identical Weather</h2>
+<h3> Vertical Distribution of CO2 along Fronts </h3>
+<h2>SP</h2>
+<h3> Vertical Distribution of CO2 along Fronts </h3>

@@ -3,7 +3,6 @@ layout: page
 title: Work Examples
 permalink: /examples/
 ---
-
 Welcome to my work examples.  In this page, you will find several videos of recent
 research and example works that I commonly perform.  Please enjoy!
 
