@@ -6,11 +6,135 @@ permalink: /FrontalDetect/CASE_2016-02-03_2016-02-11/
 
 <h2>Weather and Frontal Detection</h2>
 <h3> Thermal Front Parameter </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TlF3mOQIojs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This is a measure using equivalent potential temperature
 <h3> Divergence of Thermal Front Parameter </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g_vbHww-gYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This is the actual metric used to identify a frontal boundary
+
 <h3> Vertical Velocity </h3>
-<h2>Identical Weather</h2>
-<h3> Vertical Distribution of CO2 along Fronts </h3>
-<h2>SP</h2>
-<h3> Vertical Distribution of CO2 along Fronts </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vvPm2IhHC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2> CO2 Fields </h2>
+<h3>Identical Weather</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/De8f5cT5w64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>SP</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P4fR4b7BAus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> Vertical Distribution of CO2 along Fronts </h2>
+
+<table style="width:100%">
+<tr>
+  <th>Date </th>
+  <th>SP Weather </th>
+  <th>Identical Weather </th>
+</tr>
+<tr>
+  <td>
+    02-03-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-03.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-03.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-04-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-04.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-04.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-05-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-05.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-05.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-06-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-06.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-06.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-07-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-07.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-07.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-08-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-08.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-08.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-09-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-09.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-09.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-10-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-10.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-10.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    02-11-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/SP_IMGS/co2_distribution_vertical_2016-02-11.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-11.png" alt>
+    </td>
+</tr>
+
+</table>
