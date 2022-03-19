@@ -13,14 +13,14 @@ and CV to download.
 </tr>
 <tr>
   <td>
-    <a href="{{ site.url }}/resume/ng_resume_2020.pdf">Resume</a>
-    (Jan 2020)
+    <a href="{{ site.url }}/resume/ng_resume_2022.pdf">Resume</a>
+    (March 2022)
   </td>
 </tr>
 <tr>
   <td>
   <a href="{{ site.url }}/resume/geyer-cv.pdf">Curriculum Vitae</a>
-  (Jan 2020)
+  (March 2022)
   </td>
 </tr>
 </table>
