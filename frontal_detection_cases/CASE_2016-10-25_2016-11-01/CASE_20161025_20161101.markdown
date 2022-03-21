@@ -1,0 +1,148 @@
+---
+layout: page
+permalink: /FrontalDetect/CASE_2016-10-25_2016-11-01/
+---
+<h1>Case: 2016-10-08 to 2016-11-15</h1>
+This case represents a single large spring baroclinic wave.
+<h2>Weather and Frontal Detection</h2>
+<h3> Thermal Front Parameter </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gzMUfu7uVfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The video above shows the thermal front parameter (TFP; i.e. -&nabla;|&nabla;&theta;<sub>e</sub>|&middot;<sup>&nabla;&theta;<sub>e</sub></sup>&frasl;<sub>|&nabla;&theta;<sub>e</sub>|</sub> or the change of thermal gradient as projected onto the direction of thermal gradient itself).   Since we are using equivalent potential temperature, the TFP offers a measure of frontal thermodynamic change due to both temperature and moisture.
+
+Additionally, the video displays blue and red filled contours of the TFP.  Blue indicates the thermal gradient is weakening, while the red indicates a strengthening thermal gradient.   The black lines within the video shows where the divergence of the TFP has located a front (more on that below).  
+
+You will see that this case has appears to have a single baroclinic system tracking across the US.  You can see it break perhaps because of occlusion around the 11th.  A low to the north regenerates the cold front and it persists forward.
+
+
+<h3> Divergence of Thermal Front Parameter </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CkQryHPSEN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The video above shows the divergence of the thermal front parameter (i.e. &nabla;|&nabla;|&nabla;&theta;<sub>e</sub>| |&middot;<sup>&nabla;|&nabla;&theta;<sub>e</sub>|</sup>&frasl;<sub>|&nabla;|&nabla;&theta;<sub>e</sub>| |</sub>) Typically, the TFP is OK for simple matters of identifying the general position of the baroclinic zone, but several studies have shown that it does a poor job placing the frontal boundary in a proper position.  The divergence of the TFP is a refined metric which places the frontal boundary along the maxima of the TFP field, which gives it a better approximation of the frontal boundary location.
+
+The video displays blue and red filled contours of the divergence of the TFP.  Blue indicates where divergence is weakening, while the red indicates a strengthening.   The black lines within the video shows where the divergence of the TFP has located a front (more on that below).  
+
+The divergence of the TFP suffers from a tough drawback.  Please notice how it requires at least 3 derivatives.  For most data products at a climate scale (or even NWP scale) a number of derivatives like this produces a lot of noise.  It is a contributing factor to why some of my fronts are disjointed.   There are some ways around this, but not much on how to do it in the literature.  Despite this, the strongest fronts are pretty well identified according to the metric.
+
+<h3> Vertical Velocity </h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGA1Sl0mhQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2> CO2 Fields </h2>
+<h3>Identical Weather</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GeTQxxaBjMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>SP</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UlmTGN10fJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2> Vertical Distribution of CO2 along Fronts </h2>
+Below are a set of violin plots describing the vertical distribution of CO2 along fronts for each day for SP or IW.  The pressure levels are near the surface (about 1000 mb), 820 mb, 610 mb, and 450 mb.  
+
+In general, you will notice that the vertical structure of CO2 appears well represented.   Concentrations near the surface are quite heterogeneous and aloft, the atmosphere becomes more homogeneous.
+
+This case shows a few interesting features.  
+1) Like the wintertime front, there is evidence the expression of CO2 along the fronts are different if SP or IW are used.  While the general shape of the distributions may seem similar, there are notable differences between the two simulations.  This can only be caused by the difference in vertical transport.  It also seems to be more pronounced when strong fronts are present because vertical mixing is more substantial.  
+
+2) After the front passes by, the vertical structure becomes much more similar between IW and SP.  This is expected behavior, but it happens quite quickly.  I would think that if mixing along these frontal systems is quite strong, then the difference would be pronounced for longer than maybe a day or so.  We should investigate this?
+
+3) The front passes directly over the bulk of the mid-Atlantic and Northeast, which is prime anthropogenic CO2 surface emissions.  Maybe the anthropogenic tracer field would have more stark differences?
+
+<table style="width:100%">
+<tr>
+  <th>Date </th>
+  <th>SP Weather </th>
+  <th>Identical Weather </th>
+</tr>
+<tr>
+  <td>
+    10-25-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-25.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-25.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    10-26-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-26.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-26.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    10-27-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-27.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-27.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    10-28-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-28.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-28.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    10-29-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-29.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-29.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    10-30-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-30.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-30.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    10-31-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-10-31.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-10-31.png" alt>
+    </td>
+</tr>
+
+<tr>
+  <td>
+    11-01-2016
+  </td>
+  <td>
+    <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/SP_IMGS/co2_distribution_vertical_2016-11-01.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-10-25_2016-11-01/IW_IMGS/co2_distribution_vertical_2016-11-01.png" alt>
+    </td>
+</tr>
+
+</table>
