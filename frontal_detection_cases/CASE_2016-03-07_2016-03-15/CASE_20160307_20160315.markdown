@@ -45,6 +45,7 @@ This case shows a few interesting features.
   <th>Date </th>
   <th>SP Weather </th>
   <th>Identical Weather </th>
+  <th>Difference (1 to 1) </th>
 </tr>
 <tr>
   <td>
@@ -55,6 +56,9 @@ This case shows a few interesting features.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-07.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-07.png" alt>
     </td>
 </tr>
 
@@ -68,6 +72,9 @@ This case shows a few interesting features.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-08.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-08.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -79,6 +86,9 @@ This case shows a few interesting features.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-09.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-09.png" alt>
     </td>
 </tr>
 
@@ -92,6 +102,9 @@ This case shows a few interesting features.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-10.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-10.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -103,6 +116,9 @@ This case shows a few interesting features.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-11.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-11.png" alt>
     </td>
 </tr>
 
@@ -116,6 +132,9 @@ This case shows a few interesting features.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-12.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-12.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -127,6 +146,9 @@ This case shows a few interesting features.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-13.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-13.png" alt>
     </td>
 </tr>
 
@@ -140,6 +162,9 @@ This case shows a few interesting features.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-14.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-14.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -151,6 +176,9 @@ This case shows a few interesting features.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/IW_IMGS/co2_distribution_vertical_2016-03-15.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-03-07_2016-03-15/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-03-15.png" alt>
     </td>
 </tr>
 

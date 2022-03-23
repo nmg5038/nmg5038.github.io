@@ -39,13 +39,14 @@ This case shows two interesting features.
 
 2) There is evidence the expression of CO2 along the fronts are different if SP or IW are used.  While the general shape of the distributions may seem similar, there are notable differences between the two simulations.  This can only be caused by the difference in vertical transport.  It also seems to be more pronounced when strong fronts are present because vertical mixing is more substantial.
 
-A difference violin plot may show a bit more of this difference. 
+A difference violin plot may show a bit more of this difference.
 
 <table style="width:100%">
 <tr>
   <th>Date </th>
   <th>SP Weather </th>
   <th>Identical Weather </th>
+  <th>Difference (1 to 1) </th>
 </tr>
 <tr>
   <td>
@@ -56,6 +57,9 @@ A difference violin plot may show a bit more of this difference.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-03.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-03.png" alt>
     </td>
 </tr>
 
@@ -69,6 +73,9 @@ A difference violin plot may show a bit more of this difference.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-04.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-04.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -80,6 +87,9 @@ A difference violin plot may show a bit more of this difference.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-05.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-05.png" alt>
     </td>
 </tr>
 
@@ -93,6 +103,9 @@ A difference violin plot may show a bit more of this difference.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-06.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-06.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -104,6 +117,9 @@ A difference violin plot may show a bit more of this difference.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-07.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-07.png" alt>
     </td>
 </tr>
 
@@ -117,6 +133,9 @@ A difference violin plot may show a bit more of this difference.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-08.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-08.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -128,6 +147,9 @@ A difference violin plot may show a bit more of this difference.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-09.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-09.png" alt>
     </td>
 </tr>
 
@@ -141,6 +163,9 @@ A difference violin plot may show a bit more of this difference.
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-10.png" alt>
     </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-10.png" alt>
+    </td>
 </tr>
 
 <tr>
@@ -152,6 +177,9 @@ A difference violin plot may show a bit more of this difference.
     </td>
     <td>
       <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/IW_IMGS/co2_distribution_vertical_2016-02-11.png" alt>
+    </td>
+    <td>
+      <img src="{{ site.url }}/frontal_detection_cases/CASE_2016-02-03_2016-02-11/DIFF_IMGS/co2_distribution_vertical_DIFFERENCE_2016-02-11.png" alt>
     </td>
 </tr>
 
