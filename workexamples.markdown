@@ -44,7 +44,8 @@ adapted from Hewson 1997.  This encompasses 1 month of hourly data generated fro
 <h1>Example of Superparameterized Transport of CO2 within CESM</h1>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6RX_Zbc9lC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h1>Fortran</h1>
-<h1>IDL</h1>
-<h1>PYTHON</h1>
-<h1>NCL</h1>
+<h1>ACT-America</h1>
+<img src="{{ site.url }}/example_work/warm_cold_mg05_merged_COMBINED_VERT_20160804.png" alt>
+Throughout 2018-2020, I was a member of the science team for NASA's ACT-America mission.  ACT, or Atmospheric Carbon Transport, was a multi-institution mission that aimed to characterize the influence of frontal transport of greenhouse gases.   The highly successful campaign has truly opened the book and turned the first page on our understanding of the transport gap that tends to cause uncertainty in our surface estimates of greenhouse gases.
+
+The work I did here is ultimately still being completed for my Ph.D.  Above is a plot of some of the open-source ACT aircraft data.   These will be used to compare a CESM climatology of CO2 transport and characteristics near frontal boundaries.
